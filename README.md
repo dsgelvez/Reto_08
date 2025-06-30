@@ -19,5 +19,11 @@ Este repositorio contiene la solución al Reto 8, que incluye:
 - Cálculo de Fibonacci de forma iterativa y recursiva.
 - Comparación de tiempos de ejecución usando `time.time()`.
 
+## 5. Cuenta en stackoverflow
+- Imagen del perfil
+
+## 6. Perfil en Linkedin
+- Imagen del perfil
+
 ---
 
