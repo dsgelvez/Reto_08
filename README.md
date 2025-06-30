@@ -24,6 +24,6 @@ Este repositorio contiene la solución al Reto 8, que incluye:
 
 ## 6. Perfil en Linkedin
 - Imagen del perfil
-
+- Link del perfil: www.linkedin.com/in/david-santiago-gelvez-morales-a33791372
 ---
 
